@@ -40,6 +40,4 @@ This exploit has been successfully tested on the following distribution versions
 * **Fedora 44** (6.19.14-300.fc44.x86_64)
 * **openSUSE Tumbleweed** (7.0.2-1-default)
 
----
-
 
