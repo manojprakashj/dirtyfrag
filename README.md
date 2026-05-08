@@ -11,6 +11,7 @@ As a descendant of the *Dirty Pipe* and *Copy Fail* bug classes, this exploit do
 <img width="1568" height="390" alt="image" src="https://github.com/user-attachments/assets/f9725544-7eef-47a4-b603-4ef5f9d924c7" />
 
 ---
+
 ```
 # Open or create the exploit file
 nano exp.c
